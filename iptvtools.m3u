@@ -1,0 +1,124 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="ADBTV.pt" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",ADB TV (1080p)
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVPortuguese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Portuguese (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",ARTV Canal Parlamento (720p) [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/mbQCGm5.png" group-title="Sports",Canal 11 (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="News",CNN Portugal (720p)
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="iesTV.pt" tvg-logo="https://cdn-dggpl.nitrocdn.com/tlOjFZbLdcWmOWNcYKmSIOSeIltexHlD/assets/static/optimized/rev-ccd25d7/wp-content/uploads/2021/09/teste_logo.png" group-title="Religious",iesTV (1080p)
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Religious",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Portugal (576p)
+http://176.79.76.155:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Music",ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="General",Porto Canal (720p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="General",RecordTV Europa (720p) [Geo-blocked]
+https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
+#EXTINF:-1 tvg-id="CanalUmEuropa.pt" tvg-logo="https://i.imgur.com/4C9bzpM.png" group-title="Undefined",RIT TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General",RTP 1 (480p)
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/RTP_Madeira_2016.png/512px-RTP_Madeira_2016.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Undefined",SIC (1080p)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/j6447jk.png" group-title="News",SIC Noticias (1080p) [Geo-blocked]
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Series",SIC Novelas (720p)
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png/512px-TVI_Fic%C3%A7%C3%A3o_logo.png" group-title="Undefined",TVI Ficção (480p) [Geo-blocked]
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Entertainment",TVI Reality (480p) [Geo-blocked]
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sports 1 FHD (back up)" tvg-logo="https://vtpi-logo.xyz/logos/4670.png" group-title="Portugal Esportes",Eleven Sports 1 FHD (back up)
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4670.ts
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sports 1 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4669.png" group-title="Portugal Esportes",Eleven Sports 1 FHD 1080
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4669.ts
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sports 1 HD 720" tvg-logo="https://vtpi-logo.xyz/logos/4671.png" group-title="Portugal Esportes",Eleven Sports 1 HD 720
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4671.ts
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sports 1 SD" tvg-logo="https://vtpi-logo.xyz/logos/4672.png" group-title="Portugal Esportes",Eleven Sports 1 SD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4672.ts
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4673.png" group-title="Portugal Esportes",Eleven Sports 2 FHD 1080
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4673.ts
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2 HD" tvg-logo="https://vtpi-logo.xyz/logos/4674.png" group-title="Portugal Esportes",Eleven Sports 2 HD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4674.ts
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2 HD 720" tvg-logo="https://vtpi-logo.xyz/logos/4675.png" group-title="Portugal Esportes",Eleven Sports 2 HD 720
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4675.ts
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2 SD" tvg-logo="https://vtpi-logo.xyz/logos/4676.png" group-title="Portugal Esportes",Eleven Sports 2 SD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4676.ts
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4677.png" group-title="Portugal Esportes",Eleven Sports 3 FHD 1080
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4677.ts
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3 HD 720" tvg-logo="https://vtpi-logo.xyz/logos/4678.png" group-title="Portugal Esportes",Eleven Sports 3 HD 720
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4678.ts
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3 SD" tvg-logo="https://vtpi-logo.xyz/logos/4679.png" group-title="Portugal Esportes",Eleven Sports 3 SD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4679.ts
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3 SD (back up)" tvg-logo="https://vtpi-logo.xyz/logos/4680.png" group-title="Portugal Esportes",Eleven Sports 3 SD (back up)
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4680.ts
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4682.png" group-title="Portugal Esportes",Eleven Sports 4 FHD 1080
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4682.ts
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4 HD 720" tvg-logo="https://vtpi-logo.xyz/logos/4683.png" group-title="Portugal Esportes",Eleven Sports 4 HD 720
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4683.ts
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4 SD" tvg-logo="https://vtpi-logo.xyz/logos/4684.png" group-title="Portugal Esportes",Eleven Sports 4 SD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4684.ts
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4 SD (back up)" tvg-logo="https://vtpi-logo.xyz/logos/4685.png" group-title="Portugal Esportes",Eleven Sports 4 SD (back up)
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4685.ts
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4686.png" group-title="Portugal Esportes",Eleven Sports 5 FHD 1080
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4686.ts
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5 HD 720" tvg-logo="https://vtpi-logo.xyz/logos/4687.png" group-title="Portugal Esportes",Eleven Sports 5 HD 720
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4687.ts
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5 SD" tvg-logo="https://vtpi-logo.xyz/logos/4688.png" group-title="Portugal Esportes",Eleven Sports 5 SD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4688.ts
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="Eleven Sports 6 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4689.png" group-title="Portugal Esportes",Eleven Sports 6 FHD 1080
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4689.ts
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="Eleven Sports 6 HD 720" tvg-logo="https://vtpi-logo.xyz/logos/4690.png" group-title="Portugal Esportes",Eleven Sports 6 HD 720
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4690.ts
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="Eleven Sports 6 SD" tvg-logo="https://vtpi-logo.xyz/logos/4681.png" group-title="Portugal Esportes",Eleven Sports 6 SD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4681.ts
